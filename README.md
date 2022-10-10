@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mselvan
+- 👋 Hi, I’m Manimaran Selvan
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning something.
 - 💞️ I’m looking to collaborate on anything.

@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Manimaran Selvan
+- 👋 Hi, I’m Manimaran Selvan.
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning something.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 Reach out to me on mselvan [at] belyf [dot] com
+- 📫 Reach out to me on mselvan [at] belyf [dot] com.
 
 <!---
 mselvan/mselvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

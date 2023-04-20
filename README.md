@@ -1,4 +1,4 @@
-📫 Reach out to me on mselvan [at] belyf [dot] com.
+Reach out to me on mselvan [at] belyf [dot] com.
 
 <!---
 mselvan/mselvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
